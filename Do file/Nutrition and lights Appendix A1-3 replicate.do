@@ -14,7 +14,7 @@ Before you start, please apply to DHS for microdata access and then download the
 clear
 
 *************Setting up environment variable *************
-global Root "G:\My Drive\Nutrition and light replicated" /*"C:\Users\niyia\Desktop\Night-lights-and-Nutrition-Replication-Alimi-Boe-Gibson-and-Gibson--main"*/ //change root to where downloaded files is stored in your computer
+global Root "insert directory"  //change root to where downloaded files is stored in your computer
 
 /* Run only once to create directory
 mkdir "${Root}\Data"
